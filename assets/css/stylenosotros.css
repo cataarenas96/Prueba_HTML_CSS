@@ -1,0 +1,38 @@
+header.main {
+padding-bottom: 50px;
+background-color: RosyBrown;
+}
+.main nav{
+  width: 100%;
+  position: fixed;
+  z-index: 1;
+}
+
+header.main h4{
+  font-family: 'Homemade Apple', cursive;
+  padding-top: 50px;
+  text-align: center;
+}
+header.main h1{
+  font-family: 'Calligraffitti', cursive;
+  text-align: center;
+  padding-top: 100px;
+  font-size: 100px;
+}
+footer.final .listacontacto{
+  text-decoration: none;
+}
+footer.final{
+background-color: RosyBrown;
+padding: 50px;
+
+}
+footer.final .listacontacto{
+  text-decoration: none;
+}
+article.articulo{
+  padding-top: 25px;
+}
+article.articulo img{
+  width: 100px;
+}
