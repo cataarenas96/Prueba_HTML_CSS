@@ -18,3 +18,30 @@ nav.main .menu a:hover{
 .menu li{
   display: inline-block;
 }
+.menu li a{
+
+}
+
+aside.rs{
+  display: inline-block;
+}
+aside.rs li,
+aside.rs a{
+  display: inline-block;
+}
+
+aside.enlaces li,
+aside.enlaces a{
+  text-decoration:
+
+}
+#carouselExampleControls{
+  width: 400px;
+
+}
+article.art1 img,
+article.art2 img,
+article.art3 img,
+article.art4  img{
+padding: 20px;
+}
