@@ -1,0 +1,98 @@
+header.main {
+padding-bottom: 50px;
+background-color: RosyBrown;
+}
+
+header.main h4{
+  font-family: 'Homemade Apple', cursive;
+  padding-top: 50px;
+  text-align: center;
+}
+header.main h1{
+  font-family: 'Calligraffitti', cursive;
+  text-align: center;
+  padding-top: 100px;
+  font-size: 100px;
+}
+
+.main nav{
+  width: 100%;
+  position: fixed;
+  z-index: 1;
+}
+nav.main .menu a:hover{
+  text-decoration: none;
+}
+
+.menu{}
+.menu li{
+  display: inline-block;
+}
+
+.menu li a{
+}
+
+  .art1,
+  .art2,
+  .art3,
+  .art4,
+  .art5{
+    padding: 20px;
+  }
+  .art1 p,
+  .art2 p,
+  .art3 p,
+  .art4 p,
+  .art5 p{
+    font-family: 'Encode Sans', sans-serif;
+    padding-top: 10px;
+  }
+  .art1 h2,
+  .art2 h2,
+  .art3 h2,
+  .art4 h2,
+  .art5 h2{
+    font-family: 'Bowlby One', cursive;
+  }
+
+  aside img{
+    padding-top: 50px;
+  }
+  aside.rs{
+    display: inline-block;
+  }
+
+
+  aside.rs li,
+  aside.rs a{
+    display: inline-block;
+  }
+
+  aside.enlaces li,
+  aside.enlaces a{
+    text-decoration:
+  }
+
+  #carouselExampleControls{
+    width: 350px;
+    clear: both;
+  }
+
+
+
+  .art1 img,
+  .art2 img,
+  .art3 img,
+  .art4 img,
+  .art5 img{
+  padding: 25px;
+  }
+
+  footer.final .listacontacto{
+    text-decoration: none;
+  }
+  footer.final{
+  background-color: RosyBrown;
+  padding: 50px;
+
+  }
