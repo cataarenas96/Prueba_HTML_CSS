@@ -10,15 +10,32 @@ background-color: RosyBrown;
 }
 
 header.main h1{
-  padding-top: 50px;
-  font-size: 40px;
+  font-family: 'Calligraffitti', cursive;
   text-align: center;
+  padding-top: 100px;
+  font-size: 100px;
 
-  /* font-family: 'Coming Soon', cursive; */
 }
 header.main .bannerimg{
   max-width: 150px;
 }
 header.main .bannerimg img{
   width: 150px;
+}
+
+article.articulo{
+  padding-top: 25px;
+}
+article.articulo img{
+  padding: 20px;
+  width: 500px;
+}
+
+footer.final{
+background-color: RosyBrown;
+padding: 50px;
+}
+
+footer.final .listacontacto{
+  text-decoration: none;
 }
